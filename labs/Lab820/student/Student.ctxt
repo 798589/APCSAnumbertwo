@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\nInstance\ variabls\ of\ class\ Student\r\n\r\n@author(Martherenard)\r\n@version(820)\r\n
+comment1.params=
+comment1.target=int\ getStudentID()
+comment2.params=
+comment2.target=boolean\ getStudentActive()
+comment3.params=
+comment3.target=double\ getStudentGPA()
+comment4.params=
+comment4.target=java.lang.String\ getStudentName()
+comment5.params=paramStudentID
+comment5.target=void\ setStudentID(int)
+comment6.params=paramStudentActive
+comment6.target=void\ setStudentActive(boolean)
+comment7.params=paramStudentGPA
+comment7.target=void\ setStudentGPA(double)
+comment8.params=paramStudentName
+comment8.target=void\ setStudentName(java.lang.String)
+numComments=9
